@@ -1,0 +1,7 @@
+{
+  "user": "toni",
+  "password": "supersecret123",
+  "host": "103.189.235.254",
+  "port": 5432,
+  "database": "forumapi_test"
+}
